@@ -6,7 +6,7 @@
 
 </p>
 
-> Hoje tenho 19 anos, trabalho na <strong>Nokia</strong> como <strong>desenvolvedor Frontend Trainee</strong> a mais de 7 meses. sou apaixonado por games indies, web design, e tudo que envolva criação de interfaces para web :)
+> Hoje tenho 19 anos, trabalho na <strong>Nokia</strong> como <strong>desenvolvedor Frontend Junior</strong> a mais de 9 meses. sou apaixonado por games indies, web design, e tudo que envolva criação de interfaces para web :)
 
 <p align="left">
 
