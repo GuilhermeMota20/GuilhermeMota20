@@ -6,45 +6,26 @@
 
 </p>
 
-> Hoje com 20 anos, trabalho como <strong>Frontend Developer Junior</strong>. Atuo nesse mercado por volta de 16 meses. Sou apaixonado por games indies, web design, e tudo que envolva criação de interfaces para web :)
+> Hoje com 20 anos, trabalho como <strong>Frontend Developer Junior</strong>. Sou apaixonado por games indies, web design, e tudo que envolva criação de interfaces para web :)
 
 <p align="left">
-
-  ### 👨‍💻 Habilidades: 
-
-  <p>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="React"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-  </p>
-
-</p>
-
-<p align="left">
-
-  ### Minhas redes sociais: ⤵️
   
+  ### Linguagens e ferramentas
+
+  ![React](https://img.shields.io/badge/react-%2320ADD4.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-%23EB3D5D.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23212025.svg?style=for-the-badge&logo=javascript&logoColor=%23FFE057)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%238B26C1.svg?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-santosmotabernardo/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoinacioneto" /></a>
-</p>  
-
-<br>
-
----
-
-<br>
-
-<p align="center">
-
-  [![card](https://github-readme-stats.vercel.app/api?username=GuilhermeMota20&theme=dracula&show_icons=true)](https://github.com/GuilhermeMota20)
-
-  [![GuilhermeMota20](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMota20&hide=html&layout=compact&theme=dracula)](https://github.com/GuilhermeMota20/)
-
+  
+  ### Entre em contato
 </p>
+
+  [Email](mailto:motas6617@gmail.com)  |
+  [Instagram](https://www.instagram.com/gmota.dev/) |
+  [Linkedin](https://www.linkedin.com/in/guilherme-santosmotabernardo/)
