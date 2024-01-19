@@ -6,7 +6,13 @@
 
 </p>
 
-> Hoje com 20 anos, trabalho como <strong>Frontend Developer Junior</strong>. Sou apaixonado por games indies, web design, e tudo que envolva criação de interfaces para web :)
+> Sou um Front End Developer com 3 anos de atuação no mercado, apaixonado pelo desenvolvimento de interfaces web e aplicativos interativos. Minha experiência abrange diversas tecnologias e frameworks, com foco especial em React, Next e TypeScript, que se tornaram minha base sólida para criar aplicações modernas e eficientes.
+
+> Ao longo da minha trajetória profissional, tive o privilégio de trabalhar em projetos desafiadores nas renomadas empresas Nokia e Magna Sistemas. Nestas oportunidades, pude aprimorar minhas habilidades em diversas ferramentas e plataformas.
+
+> Meu desejo é continuar crescendo como desenvolvedor, acompanhando as inovações tecnológicas e aplicando as melhores práticas de desenvolvimento para proporcionar experiências digitais excepcionais aos usuários. Sou uma pessoa curiosa, proativa e sempre aberta a aprender novas tecnologias e metodologias, buscando constantemente a excelência em tudo o que faço.
+
+> Estou pronto para contribuir em projetos desafiadores, trazendo minha paixão pela programação e habilidades técnicas para construir soluções de Front End que impulsionem o sucesso e a satisfação dos usuários.
 
 <p align="left">
   
